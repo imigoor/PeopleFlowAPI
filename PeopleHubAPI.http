@@ -1,0 +1,6 @@
+@gerenciametoDeFuncionarios_HostAddress = http://localhost:5134
+
+GET {{gerenciametoDeFuncionarios_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
